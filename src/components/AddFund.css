@@ -1,0 +1,27 @@
+.nav.nav-pills .nav-link.active {
+    background-color: #939393;
+    color: #FFF;
+    border-radius: 4px;
+}
+
+.nav.nav-pills .nav-link{
+    color: #000;
+    border-radius: 4px;
+    background-color: #0000000F;
+    border: 1px solid #B4B4B4;
+}
+
+/* .form-check-input{
+    background-color: #939393;
+}
+.form-check-input:checked{
+    color: #939393;
+    background-color: #000;
+}
+.form-check{
+
+}
+.form-check-input:active{
+    border: none;
+    outline: none;
+} */
